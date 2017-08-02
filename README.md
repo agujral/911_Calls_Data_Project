@@ -12,3 +12,5 @@ timeStamp: String variable, YYYY-MM-DD HH:MM:SS
 twp: String variable, Township
 addr: String variable, Address
 e: String variable, Dummy variable (always 1)
+
+I order to view the html file of the python notebook please go to: 
