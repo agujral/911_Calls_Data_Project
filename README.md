@@ -13,4 +13,4 @@ twp: String variable, Township
 addr: String variable, Address
 e: String variable, Dummy variable (always 1)
 
-I order to view the html file of the python notebook please go to: http://htmlpreview.github.io/?https://github.com/agujral/911_Calls_Data_Project/blob/master/911_Calls_Data_Capstone_Project.html
+
